@@ -17,4 +17,6 @@ Le launcher télécharge et se met à jour automatiquement pour jouer à **Proje
 
 Voir **[LICENSE](LICENSE)**.
 
+## `NOT AN OFFICIAL MINECRAFT SERVICE. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.`
+
 © 2026 Project A.S.C. / IbraKar
