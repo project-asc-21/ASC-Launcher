@@ -15,6 +15,6 @@ Le launcher télécharge et se met à jour automatiquement pour jouer à **Proje
 
 **Logiciel propriétaire — Tous droits réservés.**
 
-Voir **[LISCENSE](LICENSE)**.
+Voir **[LICENSE](LICENSE)**.
 
 © 2026 Project A.S.C. / IbraKar
