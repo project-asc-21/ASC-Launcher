@@ -15,8 +15,6 @@ Le launcher télécharge et se met à jour automatiquement pour jouer à **Proje
 
 **Logiciel propriétaire — Tous droits réservés.**
 
+Voir **[LISCENSE](LICENSE)**.
+
 © 2026 Project A.S.C. / IbraKar
-
-Le logiciel et ses composants sont protégés par leurs droits respectifs. Toute reproduction, modification, redistribution, revente, utilisation commerciale ou création d'un logiciel dérivé à partir de ce logiciel nécessite l'autorisation préalable du détenteur des droits.
-
-Voir le fichier `LICENSE` pour les conditions complètes.
